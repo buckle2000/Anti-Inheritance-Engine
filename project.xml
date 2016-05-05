@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="ECSEngine" package="com.averylongname.buckle2000.ecsengine" version="0.0.1" author="buckle2000" />
+	<app main="Main" path="Export" file="ECSbatgame" />
+	
+	<source path="Source" />
+
+	<haxelib name="actuate" />
+	<haxelib name="openfl" />
+	<haxelib name="eskimo" />
+
+	<assets path="Assets" rename="assets" />
+	
+</project>
