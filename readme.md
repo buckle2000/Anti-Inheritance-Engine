@@ -1,4 +1,4 @@
-Abondoned. Do not even try to use ECS over flash-like API (OpenFL).
+Abandoned. Do not even try to use ECS over flash-like API (OpenFL).
 
 ![](http://i.creativecommons.org/p/zero/1.0/88x31.png)
 No Rights Reserved.
